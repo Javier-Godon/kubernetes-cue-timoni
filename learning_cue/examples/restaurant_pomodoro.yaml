@@ -1,0 +1,7 @@
+restaurants:
+  "Il Pomodoro Marcio":
+    cuisine: Italian
+    tables:
+      - seats: 10
+      - seats: 8
+        view: true

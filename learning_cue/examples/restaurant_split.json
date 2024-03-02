@@ -1,0 +1,16 @@
+{
+  "restaurants": {
+    "The Split Pea": {
+      "cuisine": "Contemporary",
+      "tables": [
+        {
+          "seats": 4,
+          "view": true
+        },
+        {
+          "seats": 6
+        }
+      ]
+    }
+  }
+}
