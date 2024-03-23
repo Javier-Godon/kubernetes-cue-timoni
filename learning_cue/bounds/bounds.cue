@@ -11,4 +11,4 @@ e: #rs & "mu"
 
 r1: #rn & >=5 & <10
 
-//Execute: cue evel -ic bounds.cue
+//Execute: cue eval -ic bounds.cue
